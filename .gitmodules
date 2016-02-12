@@ -1,0 +1,3 @@
+[submodule "scatter"]
+	path = scatter
+	url = git@github.com:kevinmontuori/scatter
